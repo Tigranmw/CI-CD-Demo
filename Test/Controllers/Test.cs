@@ -12,7 +12,7 @@ namespace Test.Controllers
         [HttpGet]
         public IHttpActionResult Ping()
         {
-            return Ok("pong");
+            return Ok("pong Dev");
         }
     }
 }
